@@ -1,0 +1,1 @@
+python3 people_counter_last.py --prototxt /home/aswin/Documents/people-counting-opencv/mobilenet_ssd/MobileNetSSD_deploy.prototxt --model /home/aswin/Documents/people-counting-opencv/mobilenet_ssd/MobileNetSSD_deploy.caffemodel --input /home/aswin/Documents/people-counting-opencv/videos/example_01.mp4 --output /home/aswin/Documents/people-counting-opencv/output/output1.mp4 
